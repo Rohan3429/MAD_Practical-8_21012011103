@@ -2,4 +2,5 @@
 <resources>
     <item name="textView2" type="id" />
     <item name="TextClock" type="id" />
+    <item name="materialcard1" type="id" />
 </resources>
