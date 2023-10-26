@@ -91,6 +91,7 @@
                    </TextClock>
 
                    <com.google.android.material.button.MaterialButton
+                       android:id="@+id/createalarm"
                        android:layout_width="wrap_content"
                        android:layout_height="wrap_content"
                        android:layout_marginHorizontal="20dp"
@@ -106,6 +107,7 @@
 
            </com.google.android.material.card.MaterialCardView>
            <com.google.android.material.card.MaterialCardView
+               android:id="@+id/materialcard2"
                android:layout_width="match_parent"
                android:layout_height="wrap_content"
                android:elevation="20dp"
@@ -145,6 +147,7 @@
                    </TextClock>
 
                    <com.google.android.material.button.MaterialButton
+                       android:id="@+id/cancelalarm"
                        android:layout_width="wrap_content"
                        android:layout_height="wrap_content"
                        android:layout_marginHorizontal="20dp"
