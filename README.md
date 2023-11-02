@@ -1,6 +1,10 @@
 # MAD_Practical-8_21012011103
 
-AIM: Create an application to create JSON URL for Contact which have field(id, Name(First Name, Last Name), Phone No, Address) and should be minimum five contact details & display received contact data in RecyclerView. Add Google Map Activity which displays location which is received in JSON Data in google Maps activity and set the zoom level to 10.
+AIM:What is BroadcastReceiver? Difference between Service and BroadcastReceiver. Create an Alarm application by using service & BroadcastReceiver by following below instructions.
+
+Output:
+
+
 
 
 ![Screenshot_2023-11-01-22-59-09-49_e6217390ef7158db2e4abb012e92b4aa](https://github.com/Rohan3429/MAD_Practical-8_21012011103/assets/98172369/1d025980-c215-4f1f-bde3-1ea929f5a306)
